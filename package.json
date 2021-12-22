@@ -1,0 +1,22 @@
+{
+  "name": "inheritance-plane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Constance-Nwaigwe/Inheritance-plane.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Constance-Nwaigwe/Inheritance-plane/issues"
+  },
+  "homepage": "https://github.com/Constance-Nwaigwe/Inheritance-plane#readme",
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
+}
